@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\pointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\services\\postgresqlpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\postgresqlpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\models\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\interfaces\\ipointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\ipointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\interfaces\\interfacepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\interfacepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\desktop\\pointapplication\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ED3CE83-268B-45EC-A065-57036519B5C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T11:39:28.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\Point.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Point.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\Point.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:09:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\Response.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:48:49.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\DbService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\DbService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\DbService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:06:11.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genericservice.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\Genericservice.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Genericservice.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\Genericservice.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Genericservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:37:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:09:05.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\PointRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\PointRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\PointRepository.cs",
+              "RelativeToolTip": "WebApplication1\\PointRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:27:12.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\UnitOfWork.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:25:29.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Controllers\\PointController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PointController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:13:51.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\MyDatabaseContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MyDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Models\\MyDatabaseContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MyDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:06:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\IPointRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IPointRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\IPointRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IPointRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:26:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterfacePoint.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\InterfacePoint.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\InterfacePoint.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\InterfacePoint.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\InterfacePoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:45:14.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostgreSqlPointService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\PostgreSqlPointService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\PostgreSqlPointService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Services\\PostgreSqlPointService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\PostgreSqlPointService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:46:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:24:11.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PointApplication\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T06:37:32.288Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
