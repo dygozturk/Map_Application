@@ -27,9 +27,9 @@ cd Map_Application
 dotnet restore
 
 # 4. Veritabanını yapılandırın:
-# - `appsettings.json` dosyasında `ConnectionStrings` ayarlarını düzenleyin.
-# - Veritabanını oluşturmak için şu komutu çalıştırın:
-dotnet ef database update
+- `appsettings.json` dosyasında `ConnectionStrings` ayarlarını düzenleyin.
+- Veritabanını oluşturmak için şu komutu çalıştırın:
+- dotnet ef database update
 
 # 5. Projeyi başlatın:
 dotnet run
